@@ -9,4 +9,4 @@ int main() {
 	cin >> a >> b >> c >> d;
 	cout << (a * d) - (b * c) << '\n';
 	return 0;	
-
+}
